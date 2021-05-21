@@ -1,4 +1,10 @@
 body {
-  height: 1000; 
-  width: 1000;
+  height: 500; 
+  width: 200;
+}
+
+.gallery {
+  display: flex;
+  align-items: column;
+  flex-direction: column;
 }
