@@ -1,0 +1,4 @@
+problem: how to get many images right at the time we call extension
+possible solution: fetch google image search api using javascript?
+
+problem: download to specific folder & name it according to google search name
