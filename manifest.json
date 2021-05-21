@@ -3,6 +3,10 @@
   "description": "Download every image on a web page",
   "version": "0.1",
   "permissions": ["<all_urls>", "tabs", "activeTab", "downloads"],
+  "icons": {
+    "16": "public/icon16.png",
+    "64": "public/icon64.png"
+  },
   "browser_action": {
     "default_popup": "popup/index.html"
   },
