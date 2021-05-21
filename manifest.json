@@ -2,7 +2,7 @@
   "name": "Bulk Image Downloader",
   "description": "Download every image on a web page",
   "version": "0.1",
-  "permissions": ["<all_urls>", "tabs", "activeTab"],
+  "permissions": ["<all_urls>", "tabs", "activeTab", "downloads"],
   "browser_action": {
     "default_popup": "popup/index.html"
   },
