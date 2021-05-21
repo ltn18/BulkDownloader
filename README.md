@@ -1,1 +1,1 @@
-# Chrome Extension for downloading bulk images
+# Chrome extension for downloading bulk images in google images search
